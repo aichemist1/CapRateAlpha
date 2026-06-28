@@ -1,0 +1,14 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="900" fill="#E9EFF2"/>
+  <rect y="520" width="1400" height="380" fill="#D9E4D7"/>
+  <rect x="110" y="250" width="1180" height="360" rx="10" fill="#F7F7F5"/>
+  <rect x="110" y="250" width="1180" height="70" fill="#D1C7B5"/>
+  <rect x="160" y="350" width="180" height="170" rx="8" fill="#92A7B3"/>
+  <rect x="370" y="350" width="180" height="170" rx="8" fill="#92A7B3"/>
+  <rect x="580" y="350" width="180" height="170" rx="8" fill="#92A7B3"/>
+  <rect x="790" y="350" width="180" height="170" rx="8" fill="#92A7B3"/>
+  <rect x="1000" y="350" width="180" height="170" rx="8" fill="#92A7B3"/>
+  <rect x="520" y="570" width="360" height="110" rx="12" fill="#EEF3F6"/>
+  <text x="700" y="620" text-anchor="middle" fill="#26404E" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Preston Oaks</text>
+  <text x="700" y="655" text-anchor="middle" fill="#5B6975" font-family="Arial, Helvetica, sans-serif" font-size="22">Retail center placeholder image</text>
+</svg>
