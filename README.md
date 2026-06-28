@@ -63,6 +63,7 @@ npm run qa:setup-check
 - workspace bootstrap that can persist to Supabase when env values are configured
 - AI listing copy generation with deterministic fallback
 - LoopNet export workflow with photo upload hook
+- Docker-based EC2 deployment scaffold
 
 ## Notes
 
@@ -76,3 +77,4 @@ npm run qa:setup-check
 - [Auth ADR](./docs/adr-mvp-auth-and-workspace-model.md)
 - [Landing page ADR](./docs/adr-mvp-landing-page-publishing-and-domain.md)
 - [Flyer rendering ADR](./docs/adr-mvp-flyer-rendering-pipeline.md)
+- [AWS EC2 deployment](./docs/deployment-aws-ec2.md)
